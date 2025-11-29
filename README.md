@@ -66,16 +66,22 @@ King_Khalid_Airport_Flights_Analysis/
 
 **Airline Market Share**
 
-![Market Share](images/market_share.png)
+<p align="center">
+  <img src="images/market_share.png" alt="Market Share" width="600"/>
+</p>
 
 **Feature Importance (ML Model)**
 
-![Feature Importance](images/feature_importance.png)
+<p align="center">
+  <img src="images/feature_importance.png" alt="Feature Importance" width="600"/>
+</p>
 
 ### 4. Geographic Analysis
 - Built interactive route map using Folium
 - Visualized connectivity from Riyadh to 15+ destinations
 - Classified routes as domestic (Saudi Arabia) vs international
+
+
 
 ### 5. Machine Learning
 - **Task:** Binary classification (Domestic vs International flights)
