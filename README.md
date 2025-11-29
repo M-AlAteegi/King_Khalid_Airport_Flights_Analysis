@@ -8,7 +8,9 @@
 
 A comprehensive data analysis and machine learning project exploring **153,000+ flights** at King Khalid International Airport (RUH) in Riyadh, Saudi Arabia. This project demonstrates end-to-end data science skills including data cleaning, exploratory analysis, interactive visualization, geographic mapping, and predictive modeling.
 
-![Hourly Distribution](images/hourly_distribution.png)
+<p align="center">
+  <img src="images/hourly_distribution.png" alt="Hourly Distribution" width="800"/>
+</p>
 
 ---
 
@@ -64,16 +66,22 @@ King_Khalid_Airport_Flights_Analysis/
 
 **Airline Market Share**
 
-![Market Share](images/market_share.png)
+<p align="center">
+  <img src="images/market_share.png" alt="Market Share" width="800"/>
+</p>
 
 **Feature Importance (ML Model)**
 
-![Feature Importance](images/feature_importance.png)
+<p align="center">
+  <img src="images/feature_importance.png" alt="Feature Importance" width="800"/>
+</p>
 
 ### 4. Geographic Analysis
 - Built interactive route map using Folium
 - Visualized connectivity from Riyadh to 15+ destinations
 - Classified routes as domestic (Saudi Arabia) vs international
+
+
 
 ### 5. Machine Learning
 - **Task:** Binary classification (Domestic vs International flights)
@@ -180,11 +188,7 @@ International       1.00      0.98      0.99     14743
 
 **Mohammed Al-Ateegi**
 
-<<<<<<< HEAD
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohammed-alateegi-2853b3248/)
-=======
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/mohammed-alateegi-2853b3248/)
->>>>>>> ae5f3383070ec0c02750b315a6baef9fa4c4720b
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/M-AlAteegi)
 
 ---
