@@ -67,13 +67,13 @@ King_Khalid_Airport_Flights_Analysis/
 **Airline Market Share**
 
 <p align="center">
-  <img src="images/market_share.png" alt="Market Share" width="600"/>
+  <img src="images/market_share.png" alt="Market Share" width="800"/>
 </p>
 
 **Feature Importance (ML Model)**
 
 <p align="center">
-  <img src="images/feature_importance.png" alt="Feature Importance" width="600"/>
+  <img src="images/feature_importance.png" alt="Feature Importance" width="800"/>
 </p>
 
 ### 4. Geographic Analysis
