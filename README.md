@@ -180,7 +180,7 @@ International       1.00      0.98      0.99     14743
 
 **Mohammed Al-Ateegi**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohammed-alateegi-2853b3248/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/M-AlAteegi)
 
 ---
