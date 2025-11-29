@@ -81,6 +81,10 @@ King_Khalid_Airport_Flights_Analysis/
 - Visualized connectivity from Riyadh to 15+ destinations
 - Classified routes as domestic (Saudi Arabia) vs international
 
+<p align="center">
+  <img src="images/route_map.png" alt="Route Map" width="800"/>
+</p>
+
 
 
 ### 5. Machine Learning
