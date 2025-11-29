@@ -8,7 +8,9 @@
 
 A comprehensive data analysis and machine learning project exploring **153,000+ flights** at King Khalid International Airport (RUH) in Riyadh, Saudi Arabia. This project demonstrates end-to-end data science skills including data cleaning, exploratory analysis, interactive visualization, geographic mapping, and predictive modeling.
 
-![Hourly Distribution](images/hourly_distribution.png)
+<p align="center">
+  <img src="images/hourly_distribution.png" alt="Hourly Distribution" width="800"/>
+</p>
 
 ---
 
