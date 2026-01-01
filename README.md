@@ -1,4 +1,4 @@
-# ✈️ King Khalid Airport Flight Analytics
+# King Khalid Airport Flight Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-green.svg)
@@ -14,7 +14,7 @@ A comprehensive data analysis and machine learning project exploring **153,000+ 
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 | Finding | Insight |
 |---------|---------|
@@ -27,7 +27,7 @@ A comprehensive data analysis and machine learning project exploring **153,000+ 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 King_Khalid_Airport_Flights_Analysis/
@@ -48,7 +48,7 @@ King_Khalid_Airport_Flights_Analysis/
 
 ---
 
-## 🔍 Analysis Overview
+## Analysis Overview
 
 ### 1. Data Cleaning & Preprocessing
 - Handled `\N` null placeholders across multiple columns
@@ -95,7 +95,7 @@ King_Khalid_Airport_Flights_Analysis/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -129,7 +129,7 @@ Then open `http://127.0.0.1:8050/` in your browser.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Category | Tools |
 |----------|-------|
@@ -142,7 +142,7 @@ Then open `http://127.0.0.1:8050/` in your browser.
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 ```
               precision    recall  f1-score   support
@@ -163,7 +163,7 @@ International       1.00      0.98      0.99     14743
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Source:** [King Khalid International Airport Flights Dataset](https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airport-flights-dataset/data)
 
@@ -181,14 +181,14 @@ International       1.00      0.98      0.99     14743
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Mohammed AlSubaie** for creating and sharing the dataset on Kaggle
 - King Khalid International Airport (RUH) for being the subject of this analysis
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Mohammed Al-Ateegi**
 
@@ -197,7 +197,7 @@ International       1.00      0.98      0.99     14743
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
